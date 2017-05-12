@@ -1,0 +1,8 @@
+e:\users\owais ahmed\documents\visual studio 2015\Projects\Import Data App\Import Data App\bin\Debug\Import Data App.exe
+e:\users\owais ahmed\documents\visual studio 2015\Projects\Import Data App\Import Data App\bin\Debug\Import Data App.pdb
+e:\users\owais ahmed\documents\visual studio 2015\Projects\Import Data App\Import Data App\obj\Debug\Import Data App.csprojResolveAssemblyReference.cache
+e:\users\owais ahmed\documents\visual studio 2015\Projects\Import Data App\Import Data App\obj\Debug\Import_Data_App.Form1.resources
+e:\users\owais ahmed\documents\visual studio 2015\Projects\Import Data App\Import Data App\obj\Debug\Import_Data_App.Properties.Resources.resources
+e:\users\owais ahmed\documents\visual studio 2015\Projects\Import Data App\Import Data App\obj\Debug\Import Data App.csproj.GenerateResource.Cache
+e:\users\owais ahmed\documents\visual studio 2015\Projects\Import Data App\Import Data App\obj\Debug\Import Data App.exe
+e:\users\owais ahmed\documents\visual studio 2015\Projects\Import Data App\Import Data App\obj\Debug\Import Data App.pdb
